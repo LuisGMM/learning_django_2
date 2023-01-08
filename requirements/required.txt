@@ -1,1 +1,4 @@
-numpy
+django
+django-debug-toolbar
+djangorestframework
+mysqlclient

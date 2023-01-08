@@ -3,12 +3,12 @@ FROM python:3.11
 
 
 # Copying the project files
-WORKDIR /template_project_name
+WORKDIR /learning_django_2
 COPY . .
 
 
 # Installing the project in editable mode
-RUN cd /template_project_name && \
+RUN cd /learning_django_2 && \
     pip install -e . && \
     pip install -r ./requirements/required.txt && \
     pip install -r ./requirements/tests.txt && \
