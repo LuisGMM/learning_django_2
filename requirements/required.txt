@@ -2,5 +2,13 @@ django
 django-debug-toolbar
 djangorestframework
 drf-nested-routers
-django-filters
+django-filter
+djoser
+djangorestframework_simplejwt
+django-cors-headers
+pillow
+django-templated-mail
+redis
+celery
+flower
 mysqlclient

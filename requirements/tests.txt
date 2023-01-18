@@ -1,5 +1,9 @@
 pytest
 pytest-cov
+pytest-watch
+pytest-django
+model_bakery
+locust
 mypy
 flake8
 isort
